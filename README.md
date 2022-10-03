@@ -3,6 +3,7 @@
 
 - 🎂 14 Years old
 - 💻 I mainly code with Javascript (Node/NextJS), Python and C
+- 🕹 Game dev from time to time
 - 📚 Currently taking the CS50x
 - 📫 How to reach me:
   - Discord: Arpidano#0727
