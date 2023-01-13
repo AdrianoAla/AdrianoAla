@@ -4,7 +4,7 @@
 - 🎂 15 Years old
 - 💻 I mainly code with Javascript (Node/NextJS), Python and C
 - 🕹 Game dev from time to time
-- 📚 Finished the CS50x course from Harvard! ([final project](https://github.com/AdrianoAla/cs50-final-projecy))
+- 📚 Finished the CS50x course from Harvard! ([final project](https://github.com/AdrianoAla/cs50-final-project))
 - ♟ Chess player
 - 📺 Might make youtube videos sometime soon
 - 📫 How to reach me:
