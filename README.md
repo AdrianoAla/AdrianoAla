@@ -8,7 +8,7 @@
 
 [Spotify account (good music)](https://open.spotify.com/user/3133gof5jngmco3lbubwpmu2vevi?si=f1265a6a91ce48dc&nd=1)
 
-## For resume links
+## Interesting Projects
 
 - Completed the [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) from Harvard ([Certificate](https://courses.edx.org/certificates/ee739db3c1694cf0b6ece75b1d8f25fb)). My final project was an app where users got to vote in polls created by other users ([repository](https://github.com/AdrianoAla/cs50-final-project)).
 - [Source code to 1001](https://github.com/AdrianoAla/1001-NextJS), a game about transforming numbers with 3 operations.
