@@ -1,7 +1,7 @@
 ### Hi there, I'm Adriano!
 
 
-- 🎂 17 Years old
+- 🎂 17 years old
 - 💻 I mainly code with Javascript, Rust, Python, and C++
 - 🛜 Interested in web security
 - 📚 Finished the CS50x course from Harvard! ([final project](https://github.com/AdrianoAla/cs50-final-project))
