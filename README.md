@@ -2,7 +2,7 @@
 
 
 - 🎂 17 years old
-- 💻 I mainly code with Javascript, Rust, Python, and C++
+- 💻 I mainly code with Javascript, Go, Python, and C++
 - 🛜 Interested in web security
 - 📚 Finished the CS50x course from Harvard! ([final project](https://github.com/AdrianoAla/cs50-final-project))
 
