@@ -1,10 +1,11 @@
 ### Hi there, I'm Adriano!
 
 
-- 🎂 17 years old
+- 🎂 18 years old
 - 💻 I mainly code with Javascript, Go, Python, and C++
 - 🛜 Interested in web security
 - 📚 Finished the CS50x course from Harvard! ([final project](https://github.com/AdrianoAla/cs50-final-project))
+- ♟️ Chess player
 
 [Spotify account (good music)](https://open.spotify.com/user/3133gof5jngmco3lbubwpmu2vevi?si=f1265a6a91ce48dc&nd=1)
 
